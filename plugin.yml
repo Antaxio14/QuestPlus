@@ -1,0 +1,11 @@
+name: Quest
+main: Antaxio\Main
+version: 0.2
+api: 3.0.0
+author: AntaxioYT
+fixer: Antaxio
+
+commands:
+  quest:
+    description: §lFaire des mission et gagner de l'argent!
+    default: true
